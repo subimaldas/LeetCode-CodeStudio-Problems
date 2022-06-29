@@ -1,0 +1,23 @@
+Here we use two variables
+Moving from 0th index if we get 0 then simply ignore and continue moving forward but in case of non zero value swap the element with the 0.
+
+
+CODE: 
+
+class Solution {
+public:
+    void moveZeroes(vector<int>& nums) {
+	
+        // Shifting all the non zeros valus to the left size
+        int count=0;
+        
+        for(int i=0;i<nums.size();i++){
+            
+            if(nums[i]!=0){
+                
+                swap(nums[i],nums[count++]);
+            }
+        }
+    }
+    
+};
