@@ -1,4 +1,4 @@
-Find unique
+Question:Find unique
 
 Approach: Take a variable ans and **XOR** it with every Element of array.
 
