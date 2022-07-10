@@ -3,7 +3,7 @@ Question: Find pair in the given array
 Approach: Using Brute Force which is not recommended
 
 
-Approach 2: Using two pointers
+Approach 2: Using two pointers.
 
 steps: 
 1.First we sort the given array
@@ -42,7 +42,8 @@ public:
         	else
             	    left++;
     	}
-
+      
+// 2nd loop for finding the indexes of the array, earlier arr is used for sort function and here the array is unsorted.
     	for(int i=0;i<nums.size();++i){
 
         	if(nums[i]==n1)
