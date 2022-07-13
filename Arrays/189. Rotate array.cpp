@@ -1,4 +1,5 @@
 Approach:
+
 Here in the case we use % to slove this problem
 Using temp vector for not allowing the value to overwrite
 
