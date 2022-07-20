@@ -1,6 +1,7 @@
-Here we use two variables
-Moving from 0th index if we get 0 then simply ignore and continue moving forward but in case of non zero value swap the element with the 0.
-
+Approach:
+         1.Here we use two variables
+         2.Moving from 0th index if we get 0 then simply ignore and continue moving forward but in case of non zero value swap the element with the 0.
+         3. Swap the count variable with the ith value if it is non zero
 
 CODE: 
 
