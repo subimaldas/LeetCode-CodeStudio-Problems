@@ -6,7 +6,7 @@ Approach: For 90" transpose the matrix and then swap the rows
 Time Complexity: O(NN) + O(NN).One O(N*N) for transposing the matrix and the other for reversing the matrix.
 Space Complexity: O(1).
   
-  CODE:
+CODE:
 
 class Solution
 {
