@@ -3,7 +3,7 @@ Solved using recursive and Backtracking approach
 1. This can easily be solved using simple backtracking approach where the digits are mapped to their particular letters and stored in the vector.
 2.Then this vector is passed through the solve function where the index iterates through the vector 
   i.e temp and the for loop iterates through the character present at the string.
-3.Then using pick and not pick method we can push the values in the ans vector.
+3.Then using pick and not pick method we can push the values in the ans vector. 
 
   
   
