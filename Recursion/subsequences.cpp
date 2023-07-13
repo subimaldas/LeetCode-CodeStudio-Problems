@@ -1,4 +1,4 @@
-Approach: Include, Exclude method same as subsets
+Approach: Include, Exclude methods same as subsets.
 
 Question: https://www.codingninjas.com/studio/problems/subsequences-of-string_985087
 
