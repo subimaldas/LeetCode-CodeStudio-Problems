@@ -1,4 +1,4 @@
-Approach: Using 3Pointer Approach
+Approach: Using 3Pointer Approach 
 
 *Dutch National Flag Algorithm*
 
