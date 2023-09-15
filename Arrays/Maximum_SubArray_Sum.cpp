@@ -4,7 +4,7 @@ steps:   Sum=sum+ arr[1]   maximum= maxi= max(sum, maxi)           if sum<0 then
 
 class Solution {
 public:
-    int maxSubArray(vector<int>& nums) {
+    int maxSubArray(vector<int>& nums) { 
         int sum=0; 
         int maxi= INT_MIN;    // nums[0]
         for(int i=0;i<nums.size();i++){
